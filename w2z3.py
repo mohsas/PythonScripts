@@ -15,7 +15,4 @@ def dividers(a):
     else:
         print("sum of dividers is different from ",a)
 
-dividers(10)    
-dividers(11)
-dividers(6)    
-dividers(12)
+dividers(498)    

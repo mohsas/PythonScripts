@@ -48,8 +48,8 @@ def szeregB(x,eps):
     print("Suma jest równa: ", s)
     print("Bląd jest równy ",eps)
 
-szeregB(1.0,0.0001)
-szeregB(1.0,0.00001)
-szeregB(1.0,0.000001)
+szeregB(1.74,0.0001)
+szeregB(3.14,0.00001)
+szeregB(3.14,0.000001)
 
     

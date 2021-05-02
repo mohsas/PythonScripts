@@ -1,3 +1,6 @@
+#
+# A method to return if a positive integer is prime or not
+#
 import math
 def prime(n):
     i=2
